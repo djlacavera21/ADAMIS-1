@@ -1,4 +1,4 @@
-# # ADAMAS-1
+# ADAMAS-1
 ## Adaptive Diamond–And–Graphene Mesh Array System
 ### A Neuralink-class cortical interface built from NCD / UNCD / N-UNCD, boron-doped diamond, and graphene
 
